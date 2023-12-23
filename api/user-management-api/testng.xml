@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="User Management Api Tests" parallel="methods" thread-count="30">
+    <test name="Unit-Tests">
+        <packages>
+            <package name="io.github.arungahlawat.automation.api.userManagement.tests.*"/>
+        </packages>
+    </test>
+</suite>
