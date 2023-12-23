@@ -5,6 +5,7 @@ target/
 
 ### IntelliJ IDEA ###
 .idea/
+.m2/
 
 ### Logs and temp files ###
 **/test-output/
