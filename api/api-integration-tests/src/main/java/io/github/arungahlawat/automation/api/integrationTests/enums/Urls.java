@@ -6,7 +6,6 @@ import io.github.arungahlawat.automation.core.enums.Env;
 import io.restassured.http.Method;
 
 public enum Urls implements Url {
-    GET_WORK_TYPE("/marketplace/worktypes", Method.GET),
     ;
 
     final String path;

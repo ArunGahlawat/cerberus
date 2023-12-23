@@ -1,9 +1,8 @@
 package io.github.arungahlawat.automation.api.core.listeners;
 
 import io.github.arungahlawat.automation.api.core.utils.Api;
-import io.github.arungahlawat.automation.api.core.utils.ApiCoreFileUtils;
+import io.github.arungahlawat.automation.api.core.utils.FileUtils;
 import io.github.arungahlawat.automation.core.utils.Log;
-import io.github.arungahlawat.automation.core.utils.io.FileUtils;
 import io.github.arungahlawat.automation.core.utils.reportUtils.AllureUtils;
 import io.qameta.allure.Allure;
 import org.apache.commons.lang3.StringUtils;

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Api Integration Tests" parallel="methods" thread-count="30">
+    <test name="Regression Tests">
+        <packages>
+            <package name="io.github.arungahlawat.automation.api.integrationTests.tests.*"/>
+        </packages>
+    </test>
+</suite>

@@ -1,13 +1,13 @@
 package io.github.arungahlawat.automation.api.fieldOps.utils;
 
-import io.github.arungahlawat.automation.api.core.utils.ApiCoreRandomUtils;
+import io.github.arungahlawat.automation.api.core.utils.RandomUtils;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.HashMap;
 import java.util.Map;
 
-public class FieldOpsApiRandomUtils extends ApiCoreRandomUtils {
+public class FieldOpsApiRandomUtils extends RandomUtils {
     public static Double getCost() {
         return getCost(100D, 5000D);
     }

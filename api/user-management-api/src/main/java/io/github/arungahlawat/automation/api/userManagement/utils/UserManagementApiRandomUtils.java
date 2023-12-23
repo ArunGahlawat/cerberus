@@ -1,6 +1,6 @@
 package io.github.arungahlawat.automation.api.userManagement.utils;
 
-import io.github.arungahlawat.automation.api.core.utils.ApiCoreRandomUtils;
+import io.github.arungahlawat.automation.api.core.utils.RandomUtils;
 
-public class UserManagementApiRandomUtils extends ApiCoreRandomUtils {
+public class UserManagementApiRandomUtils extends RandomUtils {
 }

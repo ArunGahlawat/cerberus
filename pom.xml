@@ -8,7 +8,7 @@
     <artifactId>cerberus</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-    <url>https://github.com/ArunGahlawat</url>
+    <url>https://github.com/ArunGahlawat/cerberus</url>
     <name>Cerberus</name>
     <description>Automation framework for web / api / mobile</description>
     <inceptionYear>2023</inceptionYear>
